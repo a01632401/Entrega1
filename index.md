@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## EQUIPO: Nellie Villalobos Barba (A01632401)& Valeria Butrón Candila (A01633429)
 
-You can use the [editor on GitHub](https://github.com/a01632401/Entrega1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Linkedin profiles:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Valeria](https://www.linkedin.com/in/valeria-butrón-candila-225316138/)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+[Nellie](https://www.linkedin.com/in/nellie-villalobos-barba-088b7b191/)
+  
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Reasons to be a Team:
 
-- Bulleted
-- List
+- We've been partners in several classes and we've worked well together.
+- We have similar interests.
+- Our abilities compliment each others'.
 
-1. Numbered
-2. List
+# Problem Context
 
-**Bold** and _Italic_ and `Code` text
+Our project will focus on offering a solution to sexual harassment in schools towards female students. Our project will attempt to generate a prototype of a piece of hardware that can efficiently detect sexual harassment or aggresive conducts, document them, and inform the authorities so that they can take action and stop them. Its function would depend on algorythms associated with data bases regarding measurable properties of these actions, such as: the use of harmful language, proximity (distance) between the subjects of analysis, behavioral cues, etc.
 
-[Link](url) and ![Image](src)
+## Questions
+
+1. How many pieces should our prototype aim to have?
+2. What are the differences between programming a website to programming a machine?
+3. How can we guarantee the security of footage and data generated and saved within our prototype?
+
+_Implementation Plan_
+
+**Viability validation**
+  - We will determine measurable properties of harassment and violence.
+  - We'll design a prototype that fits the needs of the project.
+  - The prototype will be tested with third parties that could benefit on implementing this system.
+  
+**Development**
+  - Through feedback, we'll develop the algorythm and system that will allow the propotype to function.
+
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/a01632401/Entrega1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
